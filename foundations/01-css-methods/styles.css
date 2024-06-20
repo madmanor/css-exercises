@@ -1,0 +1,17 @@
+/* In this exercise, you're going to practice adding CSS to an HTML file using all three methods: 
+external CSS, internal CSS, and inline CSS. You should only be using type selectors for this exercise 
+when adding styles via the external and internal methods. */
+
+div {
+
+     color:white;
+     background-color: red;
+     font-size:32px;
+     text-align: center;
+
+     /* Using the external method, I linked the style.css file to my index.html file, where 
+     the css will be applied. 
+     font-size properties should have 0 blankspace 
+     */
+}
+
