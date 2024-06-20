@@ -6,8 +6,10 @@ div {
 
      color:white;
      background-color: red;
-     font-size:32px;
+     font-size: 32px;
+     font-weight: bold;
      text-align: center;
+     
 
      /* Using the external method, I linked the style.css file to my index.html file, where 
      the css will be applied. 
