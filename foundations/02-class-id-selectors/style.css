@@ -1,17 +1,22 @@
 .odd {
      background-color: rgb(255, 99, 71);
      font-size: 24px;
+     font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
 }
 
 .oddthree {
      background-color: rgb(255, 99, 71);
-     font-size: 50px;
+     font-size: 35px;
 }
 
 #two {
-
      font-size: 50px;
      color: #0165fc; 
           /* Used HEX instead of RGB */
+}
 
+#fourth {
+     background-color: rgb(50, 205, 50);
+     font-weight: bold;
+     font-size: 24px;
 }
